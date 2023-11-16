@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\HR_Managment.csproj": {}
+    "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\WebApi_HR_Managment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\HR_Managment.csproj": {
+    "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\WebApi_HR_Managment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\HR_Managment.csproj",
-        "projectName": "HR_Managment",
-        "projectPath": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\HR_Managment.csproj",
+        "projectUniqueName": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\WebApi_HR_Managment.csproj",
+        "projectName": "WebApi_HR_Managment",
+        "projectPath": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\WebApi_HR_Managment.csproj",
         "packagesPath": "C:\\Users\\foxya\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\obj\\",
         "projectStyle": "PackageReference",

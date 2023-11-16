@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\HR_Managment.csproj": {}
+    "C:\\Users\\foxya\\source\\repos\\HR_Managment\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\HR_Managment.csproj": {
+    "C:\\Users\\foxya\\source\\repos\\HR_Managment\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\HR_Managment.csproj",
-        "projectName": "HR_Managment",
-        "projectPath": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\HR_Managment.csproj",
+        "projectUniqueName": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\foxya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\HR_Managment\\obj\\",
+        "outputPath": "C:\\Users\\foxya\\source\\repos\\HR_Managment\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\foxya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -57,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
